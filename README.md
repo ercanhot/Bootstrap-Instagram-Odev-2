@@ -1,2 +1,2 @@
-# Bootstrap-Instagram-Odev-2
-Patika Dev Bootstrap Instagram Odev 2 www.patika.dev
+# bootstrapinstaodev2
+bootstrap Instagram odev 2 www.patika.dev
